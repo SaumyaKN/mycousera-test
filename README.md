@@ -1,2 +1,2 @@
 # mycousera-test
-Contains all coursera tests
+This is my first experiment with git and github. I like my first projec.
